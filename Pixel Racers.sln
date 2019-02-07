@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pixel Racers", "Pixel Racers.csproj", "{0D868461-7238-9462-EE0B-7826945617F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pixel Racers.Editor", "Pixel Racers.Editor.csproj", "{C02E09D4-2D30-D64F-CD15-0F69F57961E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D868461-7238-9462-EE0B-7826945617F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D868461-7238-9462-EE0B-7826945617F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D868461-7238-9462-EE0B-7826945617F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D868461-7238-9462-EE0B-7826945617F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C02E09D4-2D30-D64F-CD15-0F69F57961E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C02E09D4-2D30-D64F-CD15-0F69F57961E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C02E09D4-2D30-D64F-CD15-0F69F57961E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C02E09D4-2D30-D64F-CD15-0F69F57961E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
